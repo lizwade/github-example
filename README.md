@@ -1,7 +1,7 @@
 GitHub Example
 ==============
 
-This is a simple example repository that will be used to show how to get started with GitHub.
+This is a very complex example repository that is only suitable for very advanced users of GitHub.
 
 How to Contribute
 =================
